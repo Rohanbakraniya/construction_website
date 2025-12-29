@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "montserrat";
+    src: url("/CSS/Font/Montserrat/Montserrat-Regular.ttf");
+}
+
+.carousel-item h5 , p {
+    font-family: "montserrat";
+}
+
